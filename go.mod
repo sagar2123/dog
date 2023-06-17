@@ -1,3 +1,2 @@
-module github.com/sagar2123/go-first
-
+module github.com/sagar2123/dog
 go 1.20
