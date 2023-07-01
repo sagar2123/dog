@@ -3,5 +3,5 @@ package dog
 import "fmt"
 
 func Bark(){
-	fmt.Println("woof!")
+	fmt.Println("woof!!")
 }
